@@ -2,7 +2,9 @@
 
 **Three-channel, wireless digital temperature measurement for rugged environments using hermetically sealed DS18B20 sensors.**
 
-<img src="DS18B20-cube.png" alt="DS18B20-cube" width="800"/>
+| Enclosure | PCB |
+|-----------|-----|
+|<img src="DS18B20-cube.png" alt="DS18B20-cube" width="400"/>|<img src="DS18B20PCB.png" alt="DS18B20PCB" width="400"/>
 
 ## Overview
 
